@@ -16,5 +16,3 @@ The simplest form of error correction. Instead of using a single qubit to store 
 Logical 0 = |000⟩
 Logical 1 = |111⟩
 If one qubit flips due to an error (e.g., |000⟩ becomes |100⟩), a majority vote can recover the original state.
-
-Surface Codes
